@@ -1,0 +1,29 @@
+<RCC>
+    <qresource prefix="/icons">
+        <file alias="list-add.png">assets/icons/list-add.png</file>
+        <file alias="folder.png">assets/icons/folder.png</file>
+        <file alias="help-browser.png">assets/icons/help-browser.png</file>
+        <file alias="emblem-system.png">assets/icons/emblem-system.png</file>
+        <file alias="go-previous.png">assets/icons/go-previous.png</file>
+        <file alias="edit-find.png">assets/icons/edit-find.png</file>
+        <file alias="applications-office.png">assets/icons/applications-office.png</file>
+        <file alias="document-print.png">assets/icons/document-print.png</file>
+        <file alias="edit-delete.png">assets/icons/edit-delete.png</file>
+        <file alias="go-next.png">assets/icons/go-next.png</file>
+        <file alias="document-save.png">assets/icons/document-save.png</file>
+        <file alias="list-remove.png">assets/icons/list-remove.png</file>
+        <file alias="media-record.png">assets/icons/media-record.png</file>
+        <file alias="color-wheel.png">assets/icons/color-wheel.png</file>
+        <file alias="edit-clear.png">assets/icons/edit-clear.png</file>
+        <file alias="app-icon-mac.png">assets/icons/app-icon-mac.png</file>
+        <file alias="app-icon-generic.png">assets/icons/app-icon-generic.png</file>
+    </qresource>
+    <qresource prefix="/etc">
+        <file alias="add-dark.png">assets/etc/add-dark.png</file>
+        <file alias="add-light.png">assets/etc/add-light.png</file>
+    </qresource>
+    <qresource prefix="/styles">
+        <file alias="light.qss">assets/styles/light.qss</file>
+        <file alias="dark.qss">assets/styles/dark.qss</file>
+    </qresource>
+</RCC>

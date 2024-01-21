@@ -1,0 +1,82 @@
+QLabel#appName {
+    font-size: 16pt;
+    color: #F3F3F3;
+}
+
+QLabel#hintLabel {
+    font-size: 14pt;
+    color: #F3F3F3;
+}
+
+QWidget#mainMenu, QWidget#stacksWidget,
+QWidget#stackMenu, QWidget#aboutWindow,
+QWidget#reader, QWidget#editor,
+QWidget#flashcardWidget, QWidget#flashcardsWidget,
+QWidget#settings, QWidget#about, 
+QWidget#quickEditor, QDialog#goToFlashcard,
+QMessageBox, QToolButton {
+    background-color: #232729;
+    color: #F3F3F3;
+}
+
+QPushButton, QLineEdit, QScrollBar,
+QProgressBar, QFontComboBox, QSpinBox {
+    background-color: #33393B;
+    color: #F3F3F3;
+}
+
+QRadioButton {
+    color: #ADADAD;
+}
+
+QLabel {
+    color: #F3F3F3;
+}
+
+QToolTip {
+    background-color: #000000;
+    color: #F3F3F3;
+    font-size: 10pt;
+    padding: 2px;
+    border-width: 1px;
+    border-style: solid;
+    border-radius: 6px;
+    border-color: #F3F3F3;
+}
+
+QPushButton#stackButton {
+    border-style: solid;
+    border-color: #F3F3F3;
+    border-width: 1px;
+    border-radius: 20px;
+    text-align: left;
+    padding-left: 8px;
+    background-color: #33393B;
+    font-size: 11pt;
+}
+
+QLabel#stackName {
+    font-size: 16pt;
+    color: #F3F3F3;
+}
+
+QPushButton#stackButton:pressed {
+    background-color: #232729;
+}
+
+QTextEdit {
+    background-color: #33393B;
+    color: #FFFFFF;
+}
+
+QPushButton#boldButton {
+    font: bold;
+}
+
+QPushButton#italicButton {
+    font: italic;
+}
+
+QPushButton#underlineButton {
+    text-decoration: underline;
+}
