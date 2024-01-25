@@ -17,6 +17,9 @@
 - and many others!
 
 ## Screenshots
+<img src="scr/mainMenu.png">
+<img src="scr/reading.png">
+<img src="scr/editor.png">
 
 
 ## Installation guide
