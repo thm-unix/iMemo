@@ -15,11 +15,11 @@ public:
     void readConfig(QString cfgDir, bool firstRun);
     void saveConfig(QString cfgDir);
 
-    QString mAppTheme;
+    QString mAppTheme = "light";
     QString mFontFamily;
-    QJsonArray mStacksList;
-    int mAutosaveIntervalMin;
-    QJsonArray mCustomColors;  // { "r,g,b", "r,g,b", ... }
+    QJsonArray mStacksList = {};
+    int mAutosaveIntervalMin = 10;
+    QJsonArray mCustomColors = {};  // { "r,g,b", "r,g,b", ... }
 
 private:
     QFont mFont;
