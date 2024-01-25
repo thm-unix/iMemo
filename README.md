@@ -17,9 +17,10 @@
 - and many others!
 
 ## Screenshots
-<img src="scr/mainMenu.png">
-<img src="scr/reading.png">
-<img src="scr/editor.png">
+<img src="scr/mainMenu.png" height="413">
+<img src="scr/reading.png" height="413">
+<img src="scr/editor.png" height="413">
+<img src="scr/exported-sample.png" height="413">
 
 
 ## Installation guide
