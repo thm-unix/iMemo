@@ -25,7 +25,7 @@
 
 ## Installation guide
 (from binary packages)<br>
-  Go to <a href="https://github.com/thm-unix/iMemo/releases">Releases</a> page and download the latest package for your operating system
+  Go to <a href="https://github.com/thm-unix/iMemo/releases">Releases</a> page to download the latest package for your operating system
 
 (from source)
   1. Install Qt
